@@ -6,7 +6,7 @@ This library provides a collection of sorting functions implemented in Rust. It 
 
 To use this library, add it to your `Cargo.toml` file as a dependency:
 
-<!-- ![alt text](https://github.com/SoftDev-Abay/blockchain2_lab1/blob/main/imgs/consumer_ouput.png?raw=true) -->
+![alt text](https://github.com/SoftDev-Abay/blockchain2_lab1/blob/main/imgs/consumer_ouput.png?raw=true)
 
 ```toml
 [dependencies]
